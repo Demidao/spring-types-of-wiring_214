@@ -10,7 +10,7 @@ public class Rabbit4 {
 
     @Autowired
     public Rabbit4(Duck5 duck5) {
-       this.duck5 = duck5;
+        this.duck5 = duck5;
     }
 
     @Override
